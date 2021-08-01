@@ -78,10 +78,10 @@ naver_site_verification  :
 author:
   name             : "grr"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "GrrCat."
-  location         : "space"
-  email            : "grreprog@gmail.com"
-  links:
+  bio              : "GrrCat"
+  #location         : "space"
+  #email            : "grreprog@gmail.com"
+  #links:
 
 
 # Site Footer
